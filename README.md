@@ -1,8 +1,8 @@
-ini![ALTER DES  MAHIRU CPU   GOVERNOR](https://github.com/user-attachments/assets/4d8e7869-a76d-434f-af1f-ec024a688e5e)
+![ALTER DES  MAHIRU CPU   GOVERNOR](https://github.com/user-attachments/assets/4d8e7869-a76d-434f-af1f-ec024a688e5e)
 
 Mahiru Tweak
 
-Compatible with: MT 6833
+Compatible with: MT 6833 / D6080
 
 By: Kanagawa Yamada
 
