@@ -1,4 +1,4 @@
-![ALTER DES  MAHIRU CPU   GOVERNOR](https://github.com/user-attachments/assets/4d8e7869-a76d-434f-af1f-ec024a688e5e)
+![ALTER DES  MAHIRU CPU   GOVERNOR](https://github.com/user-attachments/assets/7588a342-6fb2-49ab-a1b2-b2cba47b2c4e)
 
 Mahiru Tweak
 
@@ -8,7 +8,7 @@ By: Kanagawa Yamada
 
 Known Issue:
 
-- None for now
+- Can't lock governor to performance
 
 Thanks to:
 
