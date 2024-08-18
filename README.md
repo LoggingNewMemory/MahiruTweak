@@ -1,4 +1,4 @@
-![ALTER DES  MAHIRU CPU   GOVERNOR](https://github.com/user-attachments/assets/e4eba4ea-5a19-4d84-9324-1904924e5e4b)
+![ALTER DES  MAHIRU CPU   GOVERNOR](https://github.com/user-attachments/assets/f44c09af-29b0-496f-a1ed-e9d08182fe49)
 
 Mahiru Tweak
 
